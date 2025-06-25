@@ -57,6 +57,25 @@ git log
 
 # Para inserir o código readme dentro de README.md
 cat > README.md
+Coloca aqui o código readme...
+```
+
+```
+# Para salvar o código readme aperta Ctrl + D
+```
+
+```
+# Para ver se salvou corretamente o código readme
+cat README.md
+
+# Adicionar o README.md
+git add .
+
+# Escreve um commit sobre a adcionar conteúdo ao README.md
+git commit -m "adiciona conteúdo ao README.md"
+
+# Envia meu código da branch main local para a branch main do repositório remoto
+git push -u origin main
 ```
 
 ## 🔎 Referências
