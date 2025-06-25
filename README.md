@@ -30,8 +30,8 @@ git init
 git add README.md   # Ou git add . para adicionar todos os arquivos
 
 # Configurar nome e e-mail do autor (se necessário)
-git config --global user.email "jossaneoliveira.cardoso@gmail.com"
-git config --global user.name "J0ssan3"
+git config --global user.email "seu email que utilizou no github"
+git config --global user.name "Seu nome de usuario"
 
 # Realizar o commit
 git commit -m "first commit"
